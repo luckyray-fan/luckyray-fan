@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 -->
 
 ```diff
-!纯爱世界第一, ntr gck
+!纯爱世界第一, ntr gck, 为纯爱世界传递希望❕
 ```
 ![哼哼](https://i.loli.net/2020/07/19/teAQOKa27FR1Mwd.png)
