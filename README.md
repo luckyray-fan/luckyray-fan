@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **luckyray-fan/luckyray-fan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+```diff
+!纯爱世界第一, ntr gck
+```
+![哼哼](https://i.loli.net/2020/07/19/teAQOKa27FR1Mwd.png)
