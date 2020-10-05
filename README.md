@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 ```diff
-!纯爱世界第一, ntr gck, 为纯爱世界传递希望❕
+!纯爱世界第一, ntr gck, 为纯爱世界传递希望❕  nice bot ==> https://t.me/h_rayy
 ```
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=luckyray-fan)](https://github.com/anuraghazra/github-readme-stats)
